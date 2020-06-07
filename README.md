@@ -40,3 +40,7 @@ Use of GPUs is highly recommended. Otherwise the models will take too long to tr
 Expected duration of hyperparameter tuning on a single GPU: 1 week
 
 
+##
+<img src="https://github.com/cambridge-mlg/SPVAE/blob/master/acknowledgement/euc.png"  height="100"/>
+
+This project received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Grant Agreement No. 797223 (HYBSPN).
